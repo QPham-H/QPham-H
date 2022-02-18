@@ -1,6 +1,6 @@
 Hi, I’m @QPham-H.
 I’m interested in all things artificial intelligence, machine learning, deep learning, and procedural generation.
-I’m currently learning RNN for time-series data.
+
 
 
 <!---
